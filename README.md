@@ -198,9 +198,3 @@ Bank-Marketing-Campaign-Analysis
 - Business Recommendation
 
 ---
-
-## 👤 Author
-
-**Chandra**
-
-If you found this project useful, feel free to ⭐ this repository.
